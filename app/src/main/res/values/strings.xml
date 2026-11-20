@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lucky 777 Slots</string>
+    <string name="marquee_title">LUCKY 777</string>
+    <string name="marquee_subtitle">CLASSIC VEGAS SLOTS</string>
+    <string name="balance_label">BALANCE</string>
+    <string name="coins_unit">COINS</string>
+    <string name="spin_cost_badge">10 / SPIN</string>
+    <string name="spin_button">SPIN</string>
+    <string name="spinning_button">SPINNING…</string>
+    <string name="reset_coins_button">RESET 1000 COINS</string>
+    <string name="paytable_title">PAYTABLE</string>
+    <string name="paytable_three_match">3 Matching Symbols</string>
+    <string name="paytable_three_payout">+100 COINS</string>
+    <string name="paytable_two_match">2 Matching Symbols</string>
+    <string name="paytable_two_payout">+20 COINS</string>
+    <string name="paytable_spin_cost">Cost Per Spin</string>
+    <string name="paytable_spin_cost_value">10 COINS</string>
+    <string name="mute_sound_cd">Mute sound effects</string>
+    <string name="unmute_sound_cd">Unmute sound effects</string>
+    <string name="reset_coins_cd">Reset balance to 1000 coins</string>
+</resources>

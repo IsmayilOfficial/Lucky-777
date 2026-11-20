@@ -1,0 +1,6 @@
+{
+  "name": "Lucky 777 Slots",
+  "description": "A Classic Vegas neon 3-reel slot machine game with synthesized arcade sound effects, animated reels, and a visible paytable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
